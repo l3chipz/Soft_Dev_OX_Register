@@ -222,7 +222,7 @@
     <Component class="javax.swing.JLabel" name="Background">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\best_\Desktop\9b75a0e49299595d79b860afdce3bf64.jpg"/>
+          <Image iconType="2" name="C:\Users\best_\Documents\NetBeansProjects\oxgame\src\9b75a0e49299595d79b860afdce3bf64.jpg"/>
         </Property>
       </Properties>
       <Constraints>

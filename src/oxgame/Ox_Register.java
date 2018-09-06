@@ -145,7 +145,7 @@ public class Ox_Register extends javax.swing.JFrame {
         getContentPane().add(email);
         email.setBounds(664, 280, 100, 25);
 
-        Background.setIcon(new javax.swing.ImageIcon("C:\\Users\\best_\\Desktop\\9b75a0e49299595d79b860afdce3bf64.jpg")); // NOI18N
+        Background.setIcon(new javax.swing.ImageIcon("C:\\Users\\best_\\Documents\\NetBeansProjects\\oxgame\\src\\9b75a0e49299595d79b860afdce3bf64.jpg")); // NOI18N
         getContentPane().add(Background);
         Background.setBounds(0, 0, 1024, 768);
 
